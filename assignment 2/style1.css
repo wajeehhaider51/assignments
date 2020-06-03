@@ -1,0 +1,18 @@
+div{
+    padding-top: 100px;
+    text-align: center;
+}
+#thanks{
+    color: rgb(0, 182, 44);
+    font-size: 3em;
+}
+#statement{
+    color: rgb(123, 4, 180);
+    font-size: 2em;
+
+}
+a{
+    text-decoration: underline;
+    color: rgb(103, 2, 132);
+    font-size: 2em;
+}

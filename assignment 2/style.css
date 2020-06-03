@@ -1,0 +1,16 @@
+body{
+    padding-left: 320px;
+    width: 690px;
+}
+div, h1{
+    text-align: center;
+}
+h1{
+    color: rgb(95, 80, 175);
+    text-decoration: underline;
+}
+form{
+    background-color: rgb(107, 90, 205);
+    color: rgb(255, 255, 255);
+    
+}

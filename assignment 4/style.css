@@ -1,0 +1,50 @@
+body{
+    background-color: #D6ED17FF;
+}
+.navbar{
+    background-color: #606060FF !important;
+}
+.nav-link{
+    color: #D6ED17FF !important;
+    font-size: 1.5em !important;
+}
+.nav-link:hover{
+    background-color: #195190FF;
+    
+}
+.navi{
+    position: relative ;
+  top: 0 ;
+  width: 100%;
+  z-index: 1;
+}
+
+.maincard{
+    
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.dubai,.italy,.england{
+
+    display: flex;
+    margin-top: 12px;
+}
+.card{
+    box-shadow: 2px 4px 5px #606060FF;
+    background-color: rgb(17, 16, 16);
+}
+.card-text{
+    color: #D6ED17FF;
+}
+.navbar-brand{
+    color: #D6ED17FF !important;
+}
+.mb-4{
+    background-color: antiquewhite;
+}
+.main-about{
+    display: flex;
+    background-color: #ffffff;
+    box-shadow: 2px 4px 5px #606060FF;
+}
